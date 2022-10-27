@@ -7,9 +7,9 @@ https://patrick-roof.github.io/Module-1/
 
 ## Description
 
- -My motivation for this project is to improve the codebase of the Horiseon website so that it meets accessibility standards.
- -It will have semantic HTML, a logical structure, accessible image and descriptive attributes.
- -While working on this project I've learned a lot about accessible websites, properly organized HTML, and how different tags can be used to express the same idea.
+ - My motivation for this project is to improve the codebase of the Horiseon website so that it meets accessibility standards.
+ - It will have semantic HTML, a logical structure, accessible image and descriptive attributes.
+ - While working on this project I've learned a lot about accessible websites, properly organized HTML, and how different tags can be used to express the same idea.
 
 
 ## Usage
